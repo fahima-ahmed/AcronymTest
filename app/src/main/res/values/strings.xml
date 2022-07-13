@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Acronyms</string>
+    <string name="search">Search</string>
+    <string name="failed_to_connect">Failed to Connect</string>
+    <string name="enter_text_for_acronym">Enter Text for Acronym</string>
+    <string name="since">Since %s</string>
+</resources>
